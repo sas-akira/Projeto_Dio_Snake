@@ -1,0 +1,12 @@
+h1{color:rgba(140, 0, 255, 0.863)}
+h4{ justify-content: center; color:rgba(140, 0, 255, 0.863)}
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:rgb(238, 245, 136);
+    color: rgb(123, 148, 102);
+}
